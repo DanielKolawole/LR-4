@@ -1,0 +1,26 @@
+Админ@DESKTOP-3UK0FOI MINGW64 ~/Desktop/LR_4 (master)
+$ git commit -m "adedd pdf,docx file"
+[master b8c126e] adedd pdf,docx file
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Docx.docx
+ create mode 100644 pdf.pdf
+
+Админ@DESKTOP-3UK0FOI MINGW64 ~/Desktop/LR_4 (master)
+$ git push -u origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 21.24 KiB | 10.62 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/DanielKolawole/LR-4.git
+   426bd5a..b8c126e  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+Админ@DESKTOP-3UK0FOI MINGW64 ~/Desktop/LR_4 (master)
+$ git rm Docx.docx
+rm 'Docx.docx'
+
+GitHub (https://github.com/DanielKolawole/LR-4.git)
+DanielKolawole/LR-4
+Contribute to DanielKolawole/LR-4 development by creating an account on GitHub.
